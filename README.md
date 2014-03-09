@@ -4,6 +4,8 @@ ltl (pronounced "little") is a lightweight template language for JavaScript
 which generates HTML. Its syntax is clean like [Jade](http://jade-lang.com/reference/), and its performance
 is amazing like [doT](https://github.com/olado/doT).
 
+[![Build Status](https://travis-ci.org/skaushik92/ltl.png?branch=master)](https://travis-ci.org/skaushik92/ltl)
+
 ### Contributing
 
 Setup is simple: just `git clone` and `npm install`, and you're ready to start.
